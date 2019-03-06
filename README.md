@@ -1,28 +1,28 @@
 # FreeRTOS-Learning
 
 * Heap Memory Management
-    * 2018.12.18 : ~58页
-    * 2018.12.19 : ~63页
-    * 2018.12.20 : ~70页
+    * 2018.12.18 : ~Page 58
+    * 2018.12.19 : ~Page 63
+    * 2018.12.20 : ~Page 70
 * Task Management
-    * 2018.12.21 : ~89页
-    * 2018.12.22 : ~93页
-    * 2018.12.25 : ~99页
-    * 2018.12.26 : ~102页
-    * 2018.12.28 : ~109页
-    * 2018.12.29 : ~122页
-    * 2018.12.31 : ~127页
+    * 2018.12.21 : ~Page 89
+    * 2018.12.22 : ~Page 93
+    * 2018.12.25 : ~Page 99
+    * 2018.12.26 : ~Page 102
+    * 2018.12.28 : ~Page 109
+    * 2018.12.29 : ~Page 122
+    * 2018.12.31 : ~Page 127
 * Queue Management
-	 * 2018.12.31 : ~135页
-	 * 2019.01.02 : ~153页
-	 * 2019.01.04 : ~173页
+	 * 2018.12.31 : ~Page 135
+	 * 2019.01.02 : ~Page 153
+	 * 2019.01.04 : ~Page 173
 * Software Timer Management
 
 
 # COMPUTER ARCHITECTURE A Quantitative Approach 6th
 
 * Fundamentals of Quantitative Design and Analysis
-    * 2019.03.06 : ~47页
+    * 2019.03.06 : ~Page 47
 
 
 # Introduction to Algorithms Third Edition
