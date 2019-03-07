@@ -23,6 +23,11 @@
 
 * Fundamentals of Quantitative Design and Analysis
     * 2019.03.06 : ~Page 47
+    * 2019.03.07 : ~Page 52
 
 
 # Introduction to Algorithms Third Edition
+
+* Foundations
+    * 2019.03.07 : ~Page 11
+
