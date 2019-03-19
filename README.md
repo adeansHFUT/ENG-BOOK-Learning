@@ -25,6 +25,7 @@
     * 2019.03.06 : ~Page 47
     * 2019.03.07 : ~Page 52
     * 2019.03.10 : ~Page 60
+    * 2019.03.19 : ~Page 70
 
 
 # Introduction to Algorithms Third Edition
