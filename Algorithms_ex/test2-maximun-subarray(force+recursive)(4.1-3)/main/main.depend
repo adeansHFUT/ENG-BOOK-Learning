@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555324160 source:e:\app need\a_github_need\eng-book-learning\algorithms_ex\test2-maximun-subarray(force+recursive)(4.1-3)\main\main.cpp
+	<iostream>
+	<limits>
+	<stdlib.h>
+	<time.h>
+
