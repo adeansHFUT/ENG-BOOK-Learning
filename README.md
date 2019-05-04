@@ -34,7 +34,7 @@
     * 2019.04.29 : ~Page 98
     * 2019.05.04 : ~Page 100
 * Appendix B: Review of Memory Hierarchy
-    * 2019.05.04 : ~Page 
+    * 2019.05.04 : ~Page 710
 
 
 # Introduction to Algorithms Third Edition
